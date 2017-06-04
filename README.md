@@ -1,2 +1,2 @@
 # ShinyApp
-HeightPrediction is a shiny app to predict your height or your father's height based on linear model.
+HeightPrediction is a shiny app to predict your height(son) or your father's height based on linear model.
